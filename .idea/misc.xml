@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/drawable/custom_btn.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/drawable/cutom_outline.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/drawable/splashbtn.xml" value="0.19" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_home2.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_login.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_profile2.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_settings2.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/layout/fragment_welcome.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/NavigationComponents/app/src/main/res/menu/menu.xml" value="0.278125" />
       </map>
     </option>
