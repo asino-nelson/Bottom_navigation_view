@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".splashScreenFragment"
-    android:background="@drawable/splashScreen">
+    tools:context="Fragments.splashScreenFragment"
+    android:background="@drawable/splashscreen">
 
     <TextView
         android:id="@+id/textView2"
@@ -17,7 +17,7 @@
         android:layout_gravity="center"/>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button"
+        android:id="@+id/nxtbutton"
         android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:text=">>>"
